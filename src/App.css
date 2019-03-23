@@ -1,5 +1,37 @@
-.App {
-  text-align: center;
+/* .App {
+ 
+ 
+} */
+
+#salaryInput{
+  margin-top: 3vh;
+}
+
+#title{
+  font-size: 8vh;
+  font-weight: bold;
+  /* font-family: "Trebuchet MS", Helvetica, sans-serif; */
+  font-family: "Myriad Pro";
+  /* color: navy; */
+  color: white;
+  padding-bottom: 3vh;
+
+}
+
+.info{
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 3vh;
+}
+
+.labelClass{
+  font-size: 3vh;
+  color: black;
+}
+
+body{
+  /* background-color: cadetblue; */
+  background-color: white;
+  /* background-color: #0077B5 */
 }
 
 .App-logo {
@@ -31,3 +63,4 @@
     transform: rotate(360deg);
   }
 }
+

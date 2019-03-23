@@ -12,3 +12,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.sorryMessage{
+  color:blue;
+  font-size: 6vh;
+  font-weight: bold;
+  font-family: "Myriad Pro";
+  font-style: italic;
+}
